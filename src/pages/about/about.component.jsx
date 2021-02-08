@@ -24,9 +24,8 @@ const About = () => {
                 Hi there! I am <strong>&nbsp;Kunal Singh</strong>
                 <br />I am a result-oriented recent graduate (Master of Applied Computer Science) from Concordia University.
 
-                <br /> During the course of my academic career, I also managed to accrue 1.5 years of experience.
-                <br />
-                I had the privilege of working for Arctwist Technology in creative technology roles where I have learned valuable professional skills such as web development (mainly front end), design and development of Single-Page web applications using React and Redux as application data management library in the frontend and NodeJS in the backend along with other libraries such as Bootstrap, react-bootstrap.
+                <br /> Before coming to the university I had the privilege of working for Arctwist Technology Solutions where I have learned valuable professional skills such as web development (mainly front end), design and development of Single-Page web applications using React and Redux as application data management library in the frontend and NodeJS in the backend along with other libraries such as Bootstrap, react-bootstrap.
+
                 <br />
                 I have also worked on the Express framework with NodeJS for server-side applications.
                 <br />I love learning about new technologies, what problems are they solving and How can I use them to build better and scalable products.
