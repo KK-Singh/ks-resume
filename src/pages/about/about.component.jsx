@@ -39,7 +39,7 @@ const About = () => {
                     </a>
                   </div>
                   <div>
-                    <a href="./Kunal-resume_v1.pdf" download target="_blank" rel="noopener noreferrer">
+                    <a href="Kunal-resume_v1.pdf" download target="_blank" rel="noopener noreferrer">
                       <Button className="m-2" variant="outline-success">
                         My Resume
                       </Button>
